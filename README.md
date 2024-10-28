@@ -1,18 +1,17 @@
-# Gazetteer
+# Company Directory
 
-Gazetteer is a mobile-first web application that provides comprehensive profiling of countries through demographic, climatic, and geographical data. With features like an interactive map and a user-friendly navigation bar, users can easily explore various countries and access vital information.
+Company Directory is a mobile-first, standalone single-page application designed for efficient management of employee data. With an intuitive interface and real-time search functionality, users can easily search, filter, and manipulate employee information.
 
 ## Features
 
-- **Country Selection**: Navigate through a dropdown menu to select and explore different countries.
-- **Interactive Map**: Utilize Leaflet.js for dynamic map functionalities.
-- **Real-Time Data**: Integrates third-party APIs for up-to-date information, including weather forecasts and currency conversion.
-- **Responsive Design**: Ensures a seamless experience across all devices, from desktops to smartphones.
+- **Employee Management**: Add, edit, and remove employee entries with ease.
+- **Department Management**: Create and manage departments, ensuring employees are correctly assigned.
+- **Location Management**: Add and manage locations associated with departments.
+- **Real-Time Search**: Quickly search and filter employees by department or location.
+- **User-Friendly Interface**: Designed for seamless interaction and efficient data handling.
 
 ## Technical Stack
 
 - **Front-End**: HTML, CSS, JavaScript, jQuery, Bootstrap
 - **Back-End**: PHP
-- **Map Functionality**: Leaflet.js
-- **APIs**: Third-party APIs for real-time data retrieval
-
+- **Database**: MariaDB, SQL
